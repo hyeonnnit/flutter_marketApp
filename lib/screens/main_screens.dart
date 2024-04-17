@@ -1,12 +1,12 @@
 import 'package:flutter/cupertino.dart';
 
-class MainScreenState extends StatefulWidget {
+class MainScreens extends StatefulWidget {
 
   @override
-  _MainScreenStateState createState() => _MainScreenStateState();
+  _MainScreensState createState() => _MainScreensState();
 }
 
-class _MainScreenStateState extends State<MainScreenState> {
+class _MainScreensState extends State<MainScreens> {
   @override
   Widget build(BuildContext context) {
     return Container(
